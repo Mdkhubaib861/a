@@ -1,0 +1,13 @@
+City,Latitude,Longitude,Time Zone,Current Temperature,Max Temp,Min Temp,Condition,Humidity
+Mumbai,19.054999,72.8692035,Asia/Calcutta,31.4 °C,32.5 °C,29.7 °C,Mostly cloudy,69%
+Malegaon,20.5576062,74.5246514,Asia/Calcutta,37.9 °C,41.1 °C,26.8 °C,Light rain,33%
+Delhi,28.6138954,77.2090057,Asia/Calcutta,43.1 °C,44.2 °C,31.8 °C,Sunny,17%
+Hyderabad,17.360589,78.4740613,Asia/Calcutta,38 °C,39.3 °C,27.6 °C,Mostly cloudy,30%
+Kolkata,22.5726459,88.3638953,Asia/Calcutta,33.5 °C,37.7 °C,29 °C,Mostly sunny,71%
+Pune,18.5213738,73.8545071,Asia/Calcutta,32.4 °C,36.7 °C,24.4 °C,Partly sunny,50%
+Bengaluru,12.9767936,77.590082,Asia/Calcutta,29.9 °C,32.2 °C,22.7 °C,Light rain,58%
+Paris,48.8588897,2.320041,Europe/Paris,19.6 °C,18.4 °C,13.3 °C,Mostly cloudy,61%
+Dubai,25.0742823,55.1885387,Asia/Dubai,35.6 °C,38.4 °C,27.4 °C,Sunny,38%
+London,51.5074456,-0.1277653,Europe/London,18.6 °C,17.7 °C,12.8 °C,Partly sunny,59%
+Kabul,34.5269503,69.1850584,Asia/Kabul,22.6 °C,26.6 °C,14.3 °C,Mostly cloudy,35%
+haryana,11.4126769,76.7030504,Asia/Calcutta,21.2 °C,25 °C,17.6 °C,Mostly cloudy,68%
